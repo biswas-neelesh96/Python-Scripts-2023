@@ -7,7 +7,7 @@ This repository will be used for **Python Scripts** during Hacktoberfest 2023
 ## Guidelines for contribution:
 ---
 
-1) Before contributing, make sure you have a [GitHub](https://github.com) acoount with a proper knowledge of Git or Github. Also you are requested to visit the official website of [Hacktoberfest 2023](https://hacktoberfest.digitalocean.com/resources) before contributing to the repositories.
+1) Before contributing, make sure you have a [GitHub](https://github.com) acoount with a proper knowledge of Git or Github. Also you are requested to visit the official website of [Hacktoberfest 2023](https://hacktoberfest.digitalocean.com) before contributing to the repositories.
 
 2) Since, this repository is used for writing Python Scripts, you are advised to upload your codes in Python language.
 
